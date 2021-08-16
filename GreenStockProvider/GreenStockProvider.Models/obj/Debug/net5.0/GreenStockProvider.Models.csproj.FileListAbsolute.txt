@@ -1,0 +1,12 @@
+D:\TNHien\Projects\GreenStockTrader\GreenStockProvider\GreenStockProvider.Models\bin\Debug\net5.0\GreenStockProvider.Models.deps.json
+D:\TNHien\Projects\GreenStockTrader\GreenStockProvider\GreenStockProvider.Models\bin\Debug\net5.0\GreenStockProvider.Models.dll
+D:\TNHien\Projects\GreenStockTrader\GreenStockProvider\GreenStockProvider.Models\bin\Debug\net5.0\ref\GreenStockProvider.Models.dll
+D:\TNHien\Projects\GreenStockTrader\GreenStockProvider\GreenStockProvider.Models\bin\Debug\net5.0\GreenStockProvider.Models.pdb
+D:\TNHien\Projects\GreenStockTrader\GreenStockProvider\GreenStockProvider.Models\obj\Debug\net5.0\GreenStockProvider.Models.csproj.AssemblyReference.cache
+D:\TNHien\Projects\GreenStockTrader\GreenStockProvider\GreenStockProvider.Models\obj\Debug\net5.0\GreenStockProvider.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\TNHien\Projects\GreenStockTrader\GreenStockProvider\GreenStockProvider.Models\obj\Debug\net5.0\GreenStockProvider.Models.AssemblyInfoInputs.cache
+D:\TNHien\Projects\GreenStockTrader\GreenStockProvider\GreenStockProvider.Models\obj\Debug\net5.0\GreenStockProvider.Models.AssemblyInfo.cs
+D:\TNHien\Projects\GreenStockTrader\GreenStockProvider\GreenStockProvider.Models\obj\Debug\net5.0\GreenStockProvider.Models.csproj.CoreCompileInputs.cache
+D:\TNHien\Projects\GreenStockTrader\GreenStockProvider\GreenStockProvider.Models\obj\Debug\net5.0\GreenStockProvider.Models.dll
+D:\TNHien\Projects\GreenStockTrader\GreenStockProvider\GreenStockProvider.Models\obj\Debug\net5.0\ref\GreenStockProvider.Models.dll
+D:\TNHien\Projects\GreenStockTrader\GreenStockProvider\GreenStockProvider.Models\obj\Debug\net5.0\GreenStockProvider.Models.pdb

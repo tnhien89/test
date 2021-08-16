@@ -1,0 +1,15 @@
+D:\TNHien\Projects\GreenStockTrader\GreenStockProvider\GreenStockProvider.Services\bin\Debug\net5.0\GreenStockProvider.Services.deps.json
+D:\TNHien\Projects\GreenStockTrader\GreenStockProvider\GreenStockProvider.Services\bin\Debug\net5.0\GreenStockProvider.Services.dll
+D:\TNHien\Projects\GreenStockTrader\GreenStockProvider\GreenStockProvider.Services\bin\Debug\net5.0\ref\GreenStockProvider.Services.dll
+D:\TNHien\Projects\GreenStockTrader\GreenStockProvider\GreenStockProvider.Services\bin\Debug\net5.0\GreenStockProvider.Services.pdb
+D:\TNHien\Projects\GreenStockTrader\GreenStockProvider\GreenStockProvider.Services\obj\Debug\net5.0\GreenStockProvider.Services.csproj.AssemblyReference.cache
+D:\TNHien\Projects\GreenStockTrader\GreenStockProvider\GreenStockProvider.Services\obj\Debug\net5.0\GreenStockProvider.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\TNHien\Projects\GreenStockTrader\GreenStockProvider\GreenStockProvider.Services\obj\Debug\net5.0\GreenStockProvider.Services.AssemblyInfoInputs.cache
+D:\TNHien\Projects\GreenStockTrader\GreenStockProvider\GreenStockProvider.Services\obj\Debug\net5.0\GreenStockProvider.Services.AssemblyInfo.cs
+D:\TNHien\Projects\GreenStockTrader\GreenStockProvider\GreenStockProvider.Services\obj\Debug\net5.0\GreenStockProvider.Services.csproj.CoreCompileInputs.cache
+D:\TNHien\Projects\GreenStockTrader\GreenStockProvider\GreenStockProvider.Services\obj\Debug\net5.0\GreenStockProvider.Services.dll
+D:\TNHien\Projects\GreenStockTrader\GreenStockProvider\GreenStockProvider.Services\obj\Debug\net5.0\ref\GreenStockProvider.Services.dll
+D:\TNHien\Projects\GreenStockTrader\GreenStockProvider\GreenStockProvider.Services\obj\Debug\net5.0\GreenStockProvider.Services.pdb
+D:\TNHien\Projects\GreenStockTrader\GreenStockProvider\GreenStockProvider.Services\bin\Debug\net5.0\GreenStockProvider.Models.dll
+D:\TNHien\Projects\GreenStockTrader\GreenStockProvider\GreenStockProvider.Services\bin\Debug\net5.0\GreenStockProvider.Models.pdb
+D:\TNHien\Projects\GreenStockTrader\GreenStockProvider\GreenStockProvider.Services\obj\Debug\net5.0\GreenStockProvider.Services.csproj.CopyComplete
